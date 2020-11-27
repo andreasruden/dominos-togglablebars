@@ -1,0 +1,7 @@
+## Interface: 90002
+## Title: Dominos Togglable Bars
+## Notes: Add ability to toggle visibility of selected Dominos bars with a slash command.
+## Author: Shiro
+## Dependencies: Dominos
+## SavedVariables: DTB_ActionBarGroupings
+main.lua
